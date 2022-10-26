@@ -1,0 +1,228 @@
+.container {
+  height: 44px;
+  width: 1024px;
+
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+section:first-child {
+  background-color: rgba(251, 251, 253, 1);
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  gap: 42px;
+}
+
+.navbar-text {
+  color: #fff;
+  text-decoration: none;
+  padding: 17px 0 17px 0;
+  height: 11.110000610351562px;
+  width: 150.87000274658203px;
+}
+
+.nabar-img__vector {
+  height: 15.93600082397461px;
+  width: 12.972000122070312px;
+}
+
+.navbar-icon__bar {
+  height: 44px;
+  width: 29px;
+}
+
+.lm-b {
+  display: flex;
+  gap: 39.35px;
+  color: rgba(0, 102, 204, 1);
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0.23100000619888306px;
+  justify-content: center;
+}
+
+.header-title {
+  margin-top: 51px;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.2800000011920929px;
+  text-align: center;
+}
+
+.header-text {
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0.1120000034570694px;
+  text-align: center;
+}
+.header-body {
+  background-color: rgba(0, 0, 0, 1);
+}
+
+.header-body__title {
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.2800000011920929px;
+  text-align: center;
+  color: #fff;
+}
+
+.header-body__text {
+  font-family: SF Pro Display;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0.1120000034570694px;
+  text-align: center;
+  color: #fff;
+}
+
+.ip14 {
+  position: relative;
+}
+
+.ip14-img {
+  height: 499px;
+  width: 665px;
+  position: relative;
+  padding: 0 779.5px 0 779.5px;
+  margin-bottom: 12px;
+}
+
+.ip14-pro__img {
+  height: 692px;
+  width: 870px;
+  padding: 0 677px 0 677px;
+  position: relative;
+}
+
+.iwatch {
+  margin-bottom: 12px;
+}
+
+.iwatch-img {
+  height: 71px;
+  width: 1512px;
+  padding-left: calc(50% - 1512px / 2);
+}
+
+.iwatch-title {
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0.1120000034570694px;
+  text-align: center;
+}
+
+.iwatch-ult__img {
+  height: 459px;
+  width: 1300px;
+  padding-left: calc(50% - 1300px / 2);
+}
+
+.w-f {
+  display: flex;
+  gap: 5px;
+}
+
+.w-8__img {
+  height: 580px;
+}
+
+.footer-head {
+  padding: 30px 22px 0 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding-bottom: 19px;
+  border: 1px solid #d2d2d7;
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+}
+
+.footer-head__text {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(110, 110, 115, 1);
+}
+
+.footer-body__text-1 {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0.11999999731779099px;
+  text-align: left;
+  color: rgba(29, 29, 31, 1);
+  padding-bottom: 36px;
+}
+
+.footer-body__text-2 {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(66, 66, 69, 1);
+}
+
+.footer-body {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+}
+
+.footer-body__text {
+  display: flex;
+  flex-direction: column;
+  gap: 11.59px;
+  padding-top: 21px;
+}
+
+.footer-body__text-bottom {
+  padding-top: 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 11.59px;
+}
+mark {
+  background-color: rgba(245, 245, 247, 1);
+  color: rgba(0, 102, 204, 1);
+  text-decoration: solid;
+}
+
+.footer-low__text {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.footer-low__bottom {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  display: flex;
+  gap: 21px;
+  flex-direction: row;
+}
